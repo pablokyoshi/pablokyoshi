@@ -5,9 +5,9 @@
 
 - 🌱 Atualmente estudando **Python, Machine Learning e Qlik**
 
-- 📝 ou pelo Linkedin [https://www.linkedin.com/in/pablo-kyoshi-rocha-9682b7203/](https://www.linkedin.com/in/pablo-kyoshi-rocha-9682b7203/)
-
 - 💬 Me pergunte sobre **SQL, Power BI, Excel, Python, Tableau e Google Sheets**
+
+- 📝 ou pelo Linkedin [https://www.linkedin.com/in/pablo-kyoshi-rocha-9682b7203/](https://www.linkedin.com/in/pablo-kyoshi-rocha-9682b7203/)
 
 - 📫 Você conseguirá me achar no **pablo-kr@hotmail.com**
 
