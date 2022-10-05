@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Pablo</h1>
-<h3 align="center">Amante da tecnologia, cultura pop e jogos. <br>Comm base nisso, alguns portfolios terão isso como base.</br></h3>
+<h3 align="center">Amante da tecnologia, cultura pop e jogos †. <br><br>Aqui você vai encontrar alguns de meus projetos.</br></br></h3>
 
 - 🔭 Estou trabalhando com algumas analises que servirão de portfolio [..](..)
 
