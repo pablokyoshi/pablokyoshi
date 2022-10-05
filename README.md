@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Pablo</h1>
+<h1 align="center">Olá 👋, eu sou o Pablo</h1>
 <h3 align="center">Amante da tecnologia, cultura pop e jogos † <br><br>Aqui você vai encontrar alguns de meus projetos.</br></br></h3>
 
 - 🔭 Estou trabalhando com algumas analises que servirão de portfolio [..](..)
